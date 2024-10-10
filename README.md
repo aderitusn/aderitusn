@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aderitusn
 - 👀 I’m interested in data analysis and machine learning
-- 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on Machine Learning
+- 🌱 I’m currently learning Data Analysis
+- 💞️ I’m looking to collaborate on Data Analysis
 - 📫 How to reach me adeltusngimbwa@gmail.com/+255627078493
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
